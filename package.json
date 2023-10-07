@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "debug": "nodemon server.js"
+  },
+  "author": "Kartick",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.20"
+  },
+  "devDependencies": {
+  }
+}
